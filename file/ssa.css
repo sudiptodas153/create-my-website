@@ -1,0 +1,70 @@
+body{
+    margin: 100px;
+   
+}
+
+.div-title{
+    text-align: center;
+    position: relative;bottom: 1200px;left: 15px;
+    font-size: 40px;
+    color: #079c9c;
+    font-style: normal;
+    font-weight: 400;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.header{
+    background-image:url(../Banner\ Image.png);
+    padding: 1300px 600px;
+    background-repeat: no-repeat;
+    background-position: top center;
+    border-radius: 16px;
+    margin-top: 20px;
+    background-blend-mode: darken;
+   
+}
+
+.div-h{
+    text-align: center;
+    position: relative;
+    bottom: 1280px;
+    left: 250px;
+    font-size: 75px;
+    margin-right: 500px;
+    color: #0d0e0e;
+    
+}
+div{
+    text-align: center;
+    position: relative;
+    bottom: 2400px;
+}
+.off{
+    color: rgb(249, 6, 193);
+text-align: center;
+font-size: 92px;
+font-style: normal;
+font-weight: 700;
+padding: 0, 38px, 0, 0;
+}
+.p{
+    color: rgb(245, 7, 150);
+    font-size: 30px;
+    position: relative;
+    bottom: 20px;
+}
+
+.all{
+    font-size: 58px;
+    position: relative;
+    bottom: 95px;
+}
+
+.img{
+    position: relative;
+    bottom: 2540px;
+    left: 870px;
+    /* margin: 1000px; */
+   
+    
+}
